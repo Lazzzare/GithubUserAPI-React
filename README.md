@@ -26,7 +26,7 @@ npm run dev
 
 # Links
 
-- Solution URL: [GitHub Code](https://github.com/Lazzzare/TipCalculator-React)
+- Solution URL: [GitHub Code](https://github.com/Lazzzare/GithubUserAPI-React)
 - Live Site URL: [Live Site](https://github-user-api-react.netlify.app/)
 
 # Built With
