@@ -4,7 +4,7 @@
 
 # Getting Started
 
-![.gif](/src/assets/gif.gif)
+![.gif](/src/assets/gifi.gif)
 
 1. First of all you need to clone app repository from github:
 
