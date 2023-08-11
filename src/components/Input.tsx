@@ -1,7 +1,6 @@
 import Search from "../assets/Search.svg";
 import axios from "axios";
-import { useEffect } from "react";
-import { SetStateAction, useState } from "react";
+import { SetStateAction, useState, useEffect } from "react";
 import UserInfo from "./UserInfo";
 import UserDataInterface from "./Interface";
 
