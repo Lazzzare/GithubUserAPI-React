@@ -39,7 +39,7 @@ const UserSocial = ({ darkMode, renderInfo, user }: UserSocialProps) => {
       ) : (
         <img src={LightTwitter} alt="LightTwitter" />
       ),
-      value: <a>{user?.twitter_username}</a>,
+      value: user?.twitter_username,
     },
     {
       label: darkMode ? (
