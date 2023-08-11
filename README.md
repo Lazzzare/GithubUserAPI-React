@@ -35,4 +35,5 @@ npm run dev
 - _React_
 - _Typescript (TSX)_
 - _React Hooks (useState, useEffect)_
+- _sessionStorage_
 - _TailwindCss_
