@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Space Mono", monospace;
+}
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+}
+
+.dark {
+  --background-color: #1e2a47;
+  --text-color: #ffffff;
+}
+
+html {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease;
+}
