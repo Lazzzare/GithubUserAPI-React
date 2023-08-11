@@ -1,6 +1,6 @@
 # GithubUserAPI
 
-  <img src="./src/assets/Readme1.PNG" alt="First Image">
+  <img src="./src/assets/GithubUserAPIBackground.PNG" alt="First Image">
 
 # Getting Started
 
